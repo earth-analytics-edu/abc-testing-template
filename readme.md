@@ -16,7 +16,8 @@ On local machine, at the command-line:
 * create an nbgrader assignment: `nbgrader db assignment add test-abc-1 ` and `mkdir source/test-abc-1`
 * git stuff: initialize as a git repo, commit everything, change the local branch name to main, and push to github
 
-On [GitHub Classroom](https://classroom.github.com):
+To get started with testing, you also need to setup a class on [GitHub Classroom](https://classroom.github.com):
 
 * create a new github classroom called `abc-testing-class` in the `earth-analytics-edu` organization (skipping the addition of TAs and admins for now)
 * add [Karen Cranston, Leah Wasser, Nathan Korinek] as students (using full names as identifiers)
+* add an assignment called `abc-testing-1` (settings: no deadline, individual assignment, private repo, do not grant students admin access to their repos)
